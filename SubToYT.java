@@ -15,8 +15,8 @@ public class SubToYT {
 
 		// countItUp();
 
-		UnSubToYT("Prodsy");
-		SubToYT("Prodsy");
+		UnSubToYT("MrBeast");
+		SubToYT("MrBeast");
 	}
 
 
